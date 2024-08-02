@@ -1,23 +1,59 @@
 <h1 align="center">Hi there 👋, My name is Alessandro Kuz</h1>
-<h3 align="center">I'm a Passionate Machine Learning & AI Student 🧑‍🎓</h3>
+<h3 align="center">I'm a Passionate Machine Learning & AI Enthusiast 🧑‍🎓</h3>
 
-- 🔭 I’m currently working on improving my knowledge of **Machine Learning and Deep Learning**
-- 📫 How to reach me: akuzcontact@gmail.com
+### 📍 Milan, Italy
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alessandrokuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandrokuz" height="30" width="40" /></a>
-<a href="https://kaggle.com/alessandrokuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alessandrokuz" height="30" width="40" /></a>
-</p>
+<img align="center" src="firewatch-bg.png" alt="FireWatch Wallpaper" width="100"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-  
+## About me
+- 🔭 I'm currently working on improving my knowledge of **Machine Learning and LLMs**
+- 🤔 I'm a curious person, interested in all kinds of things
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **ML/DL Frameworks:** Keras, Scikit-Learn
+- **Data Manipulation:** NumPy, Pandas, Polars
+- **Visualization:** Matplotlib, Seaborn
+- **Version Control:** Git, GitHub
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrokuz&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrokuz&layout=compact&theme=radical)
+
+## 🌱 Current Learning Focus
+In order to gain further expertise in the Data Science field, I'm studying:
+- Math
+- Statistics
+- Machine Learning & Deep Learning
+- Reinforcement Learning
+- **LLMs**
+
+But I'm alse interested in:
+- **Electronics**
+- Biology
+- Neuroscience
+- Languages
+
+## 📫 How to reach me
+- **Email**: [akuzcontact@gmail.com](mailto:akuzcontact@gmail.com)
+- **LinkedIn**: [Alessandro Kuz](https://www.linkedin.com/in/alessandrokuz/)
+
+## 📜 Certifications
+- [Machine Learning Course](https://www.coursera.org/account/accomplishments/certificate/4FP7MMBBF8SL) - DeepLearning.AI / Coursera - 2021
+- [Programming Course](https://certificate.algoexpert.io/ProgrammingExpert%20Certificate%20PE-677fc6de07) - ProgrammingExpert - 2020
+
+## Languages
+- **Italian** 🇮🇹 (Native)
+- Russian 🇷🇺 (Family origins)
+- Ukrainian 🇺🇦 (Family origins)
+- **English** 🇺🇸 (~C2)
+- **Spanish** 🇵🇪 (~B2)
+- German 🇩🇪 (~B1)
+
+---
+
+## 🎯 Other projects
+- **YouTube**: [NeuralFlare](https://www.youtube.com/@NeuralFlare) \
+Italian Channel dedicated to teaching Data Science, Machine Learning & AI concepts.
