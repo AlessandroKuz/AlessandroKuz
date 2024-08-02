@@ -2,9 +2,9 @@
 <h3 align="center">I'm a Passionate Machine Learning & AI Enthusiast 🧑‍🎓</h3>
 <h4 align="center">📍 Milan, Italy</h3>
 
-<div align="center">
-![FireWatch Wallpaper](firewatch-bg.png)
-</div>
+<p align="center">
+  <img src="firewatch-bg.png" alt="FireWatch Wallpaper" width="100"/>
+</p>
 
 ## About me
 - 🔭 I'm currently working on improving my knowledge of **Machine Learning and LLMs**
