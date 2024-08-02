@@ -3,7 +3,7 @@
 <h4 align="center">📍 Milan, Italy</h3>
 
 <p align="center">
-  <img src="firewatch-bg.png" alt="FireWatch Wallpaper" width="100"/>
+  <img src="firewatch-bg.png" alt="FireWatch Wallpaper" />
 </p>
 
 ## About me
