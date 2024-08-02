@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, My name is Alessandro Kuz</h1>
 <h3 align="center">I'm a Passionate Machine Learning & AI Enthusiast 🧑‍🎓</h3>
+<h4 align="center">📍 Milan, Italy</h3>
 
-### 📍 Milan, Italy
-
-<img align="center" src="firewatch-bg.png" alt="FireWatch Wallpaper" width="100"/>
+<div align="center">
+![FireWatch Wallpaper](firewatch-bg.png)
+</div>
 
 ## About me
 - 🔭 I'm currently working on improving my knowledge of **Machine Learning and LLMs**
