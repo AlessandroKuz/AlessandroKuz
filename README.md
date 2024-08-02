@@ -17,29 +17,21 @@
 - **Visualization:** Matplotlib, Seaborn
 - **Version Control:** Git, GitHub
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrokuz&show_icons=true&theme=radical)
-
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrokuz&layout=compact&theme=radical)
-
 ## 🌱 Current Learning Focus
 In order to gain further expertise in the Data Science field, I'm studying:
-- Math
-- Statistics
-- Machine Learning & Deep Learning
-- Reinforcement Learning
-- **LLMs**
+- Math 📚
+- Statistics 📊
+- Machine Learning & Deep Learning 👨🏻‍💻📈
+- Reinforcement Learning 🤖
+- **LLMs** 💬
 
 But I'm alse interested in:
-- **Electronics**
-- Biology
-- Neuroscience
-- Languages
+- **Electronics** 💻
+- Biology 🧬
+- Neuroscience 🧠
+- Languages 🌍
 
-## 📫 How to reach me
-- **Email**: [akuzcontact@gmail.com](mailto:akuzcontact@gmail.com)
-- **LinkedIn**: [Alessandro Kuz](https://www.linkedin.com/in/alessandrokuz/)
+[Studies notes Repository](https://github.com/AlessandroKuz/Knowledge-Notes) - Here is where I keep all the notes and useful knowledge sorted by topic.
 
 ## 📜 Certifications
 - [Machine Learning Course](https://www.coursera.org/account/accomplishments/certificate/4FP7MMBBF8SL) - DeepLearning.AI / Coursera - 2021
@@ -53,8 +45,12 @@ But I'm alse interested in:
 - **Spanish** 🇵🇪 (~B2)
 - German 🇩🇪 (~B1)
 
----
-
 ## 🎯 Other projects
 - **YouTube**: [NeuralFlare](https://www.youtube.com/@NeuralFlare) \
 Italian Channel dedicated to teaching Data Science, Machine Learning & AI concepts.
+
+---
+
+## 📫 How to reach me
+- **Email**: [akuzcontact@gmail.com](mailto:akuzcontact@gmail.com)
+- **LinkedIn**: [Alessandro Kuz](https://www.linkedin.com/in/alessandrokuz/)
