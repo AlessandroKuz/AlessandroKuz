@@ -7,25 +7,28 @@
 </p>
 
 ## About me
-- 🔭 I'm currently working on improving my knowledge of **Machine Learning and LLMs**
-- 🤔 I'm a curious person, interested in all kinds of things
+- 🔭 I'm currently working on improving my knowledge of **Computer Science** and **Electronics**.
+- 🤔 I'm naturally curious and fascinated by all sorts of things, especially when it comes to tech.
 
 ## 🛠 Tech Stack
-- **Languages:** Python, SQL
+- **Languages:** Python, JavaScript, SQL
 - **ML/DL Frameworks:** Keras, Scikit-Learn
 - **Data Manipulation:** NumPy, Pandas, Polars
 - **Visualization:** Matplotlib, Seaborn
 - **Version Control:** Git, GitHub
+- **Web Frameworks:** Django
 
 ## 🌱 Current Learning Focus
 In order to gain further expertise in the Data Science field, I'm studying:
 - Math 📚
+- **Computer Science** 💻
+- **Linux** 🐧
 - Statistics 📊
 - Machine Learning & Deep Learning 👨🏻‍💻📈
 - Reinforcement Learning 🤖
-- **LLMs** 💬
+- LLMs 💬
 
-But I'm alse interested in:
+But I'm also interested in:
 - **Electronics** 💻
 - Biology 🧬
 - Neuroscience 🧠
