@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, My name is Alessandro Kuz</h1>
+<h1 align="center">My name is Alessandro Kuz</h1>
 <h3 align="center">I'm a Passionate Machine Learning & AI Enthusiast 🧑‍🎓</h3>
 <h4 align="center">📍 Milan, Italy</h3>
 
