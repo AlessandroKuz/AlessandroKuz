@@ -29,7 +29,7 @@ In order to gain further expertise in the Data Science field, I'm studying:
 - LLMs 💬
 
 But I'm also interested in:
-- **Electronics** 💻
+- **Electronics** 🔋
 - Biology 🧬
 - Neuroscience 🧠
 - Languages 🌍
@@ -41,12 +41,12 @@ But I'm also interested in:
 - [Programming Course](https://certificate.algoexpert.io/ProgrammingExpert%20Certificate%20PE-677fc6de07) - ProgrammingExpert - 2020
 
 ## Languages
-- **Italian** 🇮🇹 (Native)
-- Russian 🇷🇺 (Family origins)
-- Ukrainian 🇺🇦 (Family origins)
-- **English** 🇺🇸 (~C2)
-- **Spanish** 🇵🇪 (~B2)
-- German 🇩🇪 (~B1)
+- 🇮🇹 **Italian** (Native)
+- 🇺🇸 **English** (~C2)
+- 🇷🇺 Russian (Family origins)
+- 🇺🇦 Ukrainian (Family origins)
+- 🇵🇪 **Spanish** (~B2)
+- 🇩🇪 German (~B1)
 
 ## 🎯 Other projects
 - **YouTube**: [NeuralFlare](https://www.youtube.com/@NeuralFlare) \
