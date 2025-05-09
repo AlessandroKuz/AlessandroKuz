@@ -6,6 +6,9 @@
   <img src="firewatch-bg.png" alt="FireWatch Wallpaper" />
 </p>
 
+## Website
+Here is the link to my [personal website](https://www.alessandrokuz.info) - Currently WIP (Work In Progress).
+
 ## About me
 - 🔭 I'm currently working on improving my knowledge of **Computer Science** and **Electronics**.
 - 🤔 I'm naturally curious and fascinated by all sorts of things, especially when it comes to tech.
